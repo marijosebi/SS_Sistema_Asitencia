@@ -1,0 +1,269 @@
+[{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7befe"
+  },
+  "name": "Centro Interdisciplinario de Ciencias de la Salud  Unidad Milpa Alta",
+  "code": "CICSMA",
+  "programs": [
+    {
+      "$oid": "605970a018f10c2e74b7bdd8"
+    },
+    {
+      "$oid": "605970a018f10c2e74b7bdd8"
+    },
+    {
+      "$oid": "605970a018f10c2e74b7bddc"
+    },
+    {
+      "$oid": "605970a018f10c2e74b7bdde"
+    },
+    {
+      "$oid": "605970a018f10c2e74b7bddf"
+    },
+    {
+      "$oid": "605970a018f10c2e74b7bde1"
+    },
+  ]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7beff"
+  },
+  "name": "Centro Interdisciplinario de Ciencias de la Salud  Unidad Santo Tomás",
+  "code": "CICSST",
+  "programs": 
+  [{"$oid":"605970a018f10c2e74b7bdd9"}
+    ,{"$oid":"605970a018f10c2e74b7bdda"}
+    ,{"$oid":"605970a018f10c2e74b7bdde"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf00"
+  },
+  "name": "Escuela Nacional de Biblioteconomía y Archivonomía",
+  "code": "ENBA ",
+  "programs": 
+  [{"$oid":"605970a018f10c2e74b7bde7"},{"$oid":"605970a018f10c2e74b7bde8"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf01"
+  },
+  "name": "Escuela Nacional De Ciencias Biológicas",
+  "code": "ENCB ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdaf"},
+    {"$oid":"605970a018f10c2e74b7bdbe"},
+    {"$oid":"605970a018f10c2e74b7bddb"},
+    {"$oid":"605970a018f10c2e74b7bde2"},
+    {"$oid":"605970a018f10c2e74b7bde3"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf02"
+  },
+  "name": "Escuela Nacional de Medicina y Homeopatía",
+  "code": "ENMyH ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bde0"},
+    {"$oid":"605970a018f10c2e74b7bde1"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf03"
+  },
+  "name": "Escuela Superior de Comercio y Administración Unidad Santo Tomás",
+  "code": "ESCAST",
+  "programs": [{"$oid":"605970a018f10c2e74b7bde4"},
+    {"$oid":"605970a018f10c2e74b7bde6"},
+    {"$oid":"605970a018f10c2e74b7bdf3"},
+    {"$oid":"605970a018f10c2e74b7bdea"},
+    {"$oid":"605970a018f10c2e74b7bdeb"},
+    {"$oid":"605970a018f10c2e74b7bdec"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf04"
+  },
+  "name": "Escuela Superior de Comercio y Administración Unidad Tepepan",
+  "code": "ESCAUT",
+  "programs": [{"$oid":"605970a018f10c2e74b7bde4"},{"$oid":"605970a018f10c2e74b7bdeb"},{"$oid":"605970a018f10c2e74b7bdec"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf05"
+  },
+  "name": "Escuela Superior de Cómputo ",
+  "code": "ESCOM ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdb9"},{"$oid":"605970a018f10c2e74b7bdc0"},{"$oid":"605aa41d7dfacb3c9d4299e7"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf06"
+  },
+  "name": "Escuela Superior de Economía",
+  "code": "ESE ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bde9"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf07"
+  },
+  "name": "Escuela Superior de Enfermería y Obstetricia",
+  "code": "ESEO ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bddc"},{"$oid":"605970a018f10c2e74b7bddd"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf08"
+  },
+  "name": "Escuela Superior de Física y Matemáticas ",
+  "code": "ESFM ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdc9"},{"$oid":"605970a018f10c2e74b7bdd6"},{"$oid":"605970a018f10c2e74b7bdd7"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf09"
+  },
+  "name": "Escuela Superior de Ingeniería Mecánica y Eléctrica  Unidad Culhuacán",
+  "code": "ESIMEC",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdb4"},{"$oid":"605970a018f10c2e74b7bdb5"},{"$oid":"605970a018f10c2e74b7bdca"},{"$oid":"605aa41d7dfacb3c9d4299e7"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf0a"
+  },
+  "name": "Escuela Superior de Ingeniería Mecánica y Eléctrica  Unidad Ticomán",
+  "code": "ESIMET",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdab"},{"$oid":"605aa41d7dfacb3c9d4299e7"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf0b"
+  },
+  "name": "Escuela Superior de Ingeniería Mecánica y Eléctrica  Unidad Azcapotzalco",
+  "code": "ESIMEA",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdbd"},{"$oid":"605970a018f10c2e74b7bdca"},{"$oid":"605aa41d7dfacb3c9d4299e7"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf0c"
+  },
+  "name": "Escuela Superior de Ingeniería Mecánica y Eléctrica  Unidad Zacatenco",
+  "code": "ESIMEZ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdb2"},{"$oid":"605970a018f10c2e74b7bdb5"},{"$oid":"605970a018f10c2e74b7bdb6"},{"$oid":"605970a018f10c2e74b7bdbc"},{"$oid":"605970a018f10c2e74b7bdc1"},{"$oid":"605970a018f10c2e74b7bdc5"},{"$oid":"605aa41d7dfacb3c9d4299e7"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf0d"
+  },
+  "name": "Escuela Superior de Ingeniería Química e Industrias Extractivas",
+  "code": "ESIQIE ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdba"},{"$oid":"605970a018f10c2e74b7bdce"},{"$oid":"605970a018f10c2e74b7bdcf"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf0e"
+  },
+  "name": "Escuela Superior de Ingeniería Textil",
+  "code": "ESIT ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdd1"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf0f"
+  },
+  "name": "Escuela Superior de Ingeniería y Arquitectura  Unidad Ticomán",
+  "code": "ESIAT",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdc6"},{"$oid":"605970a018f10c2e74b7bdc7"},{"$oid":"605970a018f10c2e74b7bdcd"},{"$oid":"605970a018f10c2e74b7bdd2"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf10"
+  },
+  "name": "Escuela Superior de Ingeniería y Arquitectura  Unidad Zacatenco",
+  "code": "ESIAZ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdb1"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf11"
+  },
+  "name": "Escuela Superior de Ingeniería y Arquitectura  Unidad Tecamachalco",
+  "code": "ESIATe",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdd3"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf12"
+  },
+  "name": "Escuela Superior de Medicina",
+  "code": "ESM ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bde1"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf13"
+  },
+  "name": "Escuela Superior de Turismo",
+  "code": "EST ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bded"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf14"
+  },
+  "name": "Uni​dad Profesional Interdisciplinaria de Ingeniería C Campus Coahuila",
+  "code": "UPIIC",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdb6"},{"$oid":"605970a018f10c2e74b7bdb9"},{"$oid":"605970a018f10c2e74b7bdd4"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf15"
+  },
+  "name": "Unidad Profesional Interdisciplinaria de Biotecnología",
+  "code": "UPIBI",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdac"},{"$oid":"605970a018f10c2e74b7bdad"},{"$oid":"605970a018f10c2e74b7bdb0"},{"$oid":"605970a018f10c2e74b7bdb3"},{"$oid":"605970a018f10c2e74b7bdc3"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf16"
+  },
+  "name": "Uni​dad Profesional Interdisciplinaria de Ingeniería Campus Guanajuato",
+  "code": "UPIIG",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdab"},{"$oid":"605970a018f10c2e74b7bdb0"},{"$oid":"605970a018f10c2e74b7bdc3"},{"$oid":"605970a018f10c2e74b7bdc8"},{"$oid":"605aa41d7dfacb3c9d4299e7"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf17"
+  },
+  "name": "Uni​dad Profesional Interdisciplinaria de Ingeniería Campus Zacatecas",
+  "code": "UPIIZ",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdac"},{"$oid":"605970a018f10c2e74b7bdb3"},{"$oid":"605970a018f10c2e74b7bdcb"},{"$oid":"605970a018f10c2e74b7bdcc"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf18"
+  },
+  "name": "Uni​dad Profesional Interdisciplinaria de Ingeniería Campus Hidalgo",
+  "code": "UPIIH",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdcb"},{"$oid":"605aa41d7dfacb3c9d4299e7"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf19"
+  },
+  "name": "Uni​dad Profesional Interdisciplinaria de Ingeniería Campus Palenque",
+  "code": "UPIIP",
+  "programs": 
+  [{"$oid":"605970a018f10c2e74b7bdb0"},{"$oid":"605970a018f10c2e74b7bdb1"},{"$oid":"605970a018f10c2e74b7bdc4"},{"$oid":"605970a018f10c2e74b7bdee"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf1a"
+  },
+  "name": "Uni​dad Profesional Interdisciplinaria de Ingeniería Campus Tlaxcala",
+  "code": "UPIIT",
+  "programs": 
+  [
+    {"$oid":"605970a018f10c2e74b7bdb0"},
+      {"$oid":"605970a018f10c2e74b7bdb9"},
+        {"$oid":"605970a018f10c2e74b7bdc2"},
+          {"$oid":"605970a018f10c2e74b7bdd4"},
+            {"$oid":"605aa41d7dfacb3c9d4299e7"}
+          ]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf1b"
+  },
+  "name": "Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas.",
+  "code": "UPIICSA",
+  "programs": 
+  [
+    {"$oid":"605970a018f10c2e74b7bdb8"},
+      {"$oid":"605970a018f10c2e74b7bdc2"},{"$oid":"605970a018f10c2e74b7bdc8"},{"$oid":"605970a018f10c2e74b7bdd5"},{"$oid":"605970a018f10c2e74b7bde5"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf1c"
+  },
+  "name": "Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas",
+  "code": "UPIITA",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdae"},{"$oid":"605970a018f10c2e74b7bdcb"},{"$oid":"605970a018f10c2e74b7bdd0"}]
+},{
+  "_id": {
+    "$oid": "605ab8e818f10c2e74b7bf1d"
+  },
+  "name": "Unidad Profesional Interdisciplinaria de Energía y Movilidad",
+  "code": "UPIEM",
+  "programs": [{"$oid":"605970a018f10c2e74b7bdb7"},{"$oid":"605970a018f10c2e74b7bdbb"},{"$oid":"605970a018f10c2e74b7bdbc"},{"$oid":"605970a018f10c2e74b7bdc1"}]
+}]

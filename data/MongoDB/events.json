@@ -1,0 +1,4404 @@
+[{
+  "_id": {
+    "$oid": "6088de5fac67911a820f264d"
+  },
+  "title": "Retos de las Masculinidades Modernas",
+  "location": "Conferencia en linea",
+  "date": [
+    "2020-10-15"
+  ],
+  "period": {
+    "$oid": "607c82b0d8f88a43045435d3"
+  },
+  "organizer": {
+    "$oid": "6088c9eaac67911a820f2649"
+  },
+  "assistents": [
+    {
+      "register": "2020-10-15  11:55:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ec"
+      }
+    },
+    {
+      "register": "2020-10-15  11:56:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436e2"
+      }
+    },
+    {
+      "register": "2020-10-15  11:56:0",
+      "assistent": {
+        "$oid": "6095d07206cfa1b6296915b6"
+      }
+    },
+    {
+      "register": "2020-10-15  11:56:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436db"
+      }
+    },
+    {
+      "register": "2020-10-15  11:56:44",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436e9"
+      }
+    },
+    {
+      "register": "2020-10-15  11:57:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454375d"
+      }
+    },
+    {
+      "register": "2020-10-15  11:57:15",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389c"
+      }
+    },
+    {
+      "register": "2020-10-15  11:57:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438fa"
+      }
+    },
+    {
+      "register": "2020-10-15  12:02:26",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454369e"
+      }
+    },
+    {
+      "register": "2020-10-15  12:02:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543822"
+      }
+    },
+    {
+      "register": "2020-10-15  12:02:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436af"
+      }
+    },
+    {
+      "register": "2020-10-15  12:04:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543641"
+      }
+    },
+    {
+      "register": "2020-10-15  12:06:34",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389a"
+      }
+    },
+    {
+      "register": "2020-10-15  12:11:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543988"
+      }
+    },
+    {
+      "register": "2020-10-15  12:13:22",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389b"
+      }
+    },
+    {
+      "register": "2020-10-15  12:17:41",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454366b"
+      }
+    },
+    {
+      "register": "2020-10-15  12:19:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543643"
+      }
+    },
+    {
+      "register": "2020-10-15  12:22:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386d"
+      }
+    },
+    {
+      "register": "2020-10-15  12:27:14",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437d4"
+      }
+    },
+    {
+      "register": "2020-10-15  12:31:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454363b"
+      }
+    },
+    {
+      "register": "2020-10-15  12:39:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543647"
+      }
+    },
+    {
+      "register": "2020-10-15  12:47:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543839"
+      }
+    },
+    {
+      "register": "2020-10-15  12:49:20",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436b1"
+      }
+    },
+    {
+      "register": "2020-10-15  13:01:09",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438a0"
+      }
+    },
+    {
+      "register": "2020-10-15  13:03:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438e8"
+      }
+    },
+    {
+      "register": "2020-10-15  13:03:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ff"
+      }
+    },
+    {
+      "register": "2020-10-15  13:04:18",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438c2"
+      }
+    },
+    {
+      "register": "2020-10-15  13:04:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543967"
+      }
+    },
+    {
+      "register": "2020-10-15  13:14:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438f3"
+      }
+    },
+    {
+      "register": "2020-10-15  13:14:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438d7"
+      }
+    },
+    {
+      "register": "2020-10-15  13:21:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543765"
+      }
+    },
+    {
+      "register": "2020-10-15  13:28:40",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543922"
+      }
+    },
+    {
+      "register": "2020-10-15  13:52:56",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543978"
+      }
+    },
+    {
+      "register": "2020-10-15  14:04:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543822"
+      }
+    },
+    {
+      "register": "2020-10-15  14:29:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454379a"
+      }
+    },
+    {
+      "register": "2020-10-15  14:49:50",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454376b"
+      }
+    },
+    {
+      "register": "2020-10-15  14:50:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543755"
+      }
+    },
+    {
+      "register": "2020-10-15  14:51:14",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543754"
+      }
+    },
+    {
+      "register": "2020-10-15  14:51:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437a5"
+      }
+    },
+    {
+      "register": "2020-10-15  14:52:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b9"
+      }
+    },
+    {
+      "register": "2020-10-15  14:59:19",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543870"
+      }
+    },
+    {
+      "register": "2020-10-15  15:02:17",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543870"
+      }
+    },
+    {
+      "register": "2020-10-15  15:35:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e3"
+      }
+    },
+    {
+      "register": "2020-10-15  15:38:40",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543823"
+      }
+    },
+    {
+      "register": "2020-10-15  15:40:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543823"
+      }
+    },
+    {
+      "register": "2020-10-15  15:48:29",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543886"
+      }
+    },
+    {
+      "register": "2020-10-15  15:55:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543813"
+      }
+    },
+    {
+      "register": "2020-10-15  16:16:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436ab"
+      }
+    },
+    {
+      "register": "2020-10-15  16:23:26",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543867"
+      }
+    },
+    {
+      "register": "2020-10-15  16:52:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454382c"
+      }
+    },
+    {
+      "register": "2020-10-15  16:54:56",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2020-10-15  16:55:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386e"
+      }
+    },
+    {
+      "register": "2020-10-15  16:56:11",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045439ac"
+      }
+    },
+    {
+      "register": "2020-10-15  16:57:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437ff"
+      }
+    },
+    {
+      "register": "2020-10-15  16:57:29",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b3"
+      }
+    },
+    {
+      "register": "2020-10-15  16:57:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386f"
+      }
+    },
+    {
+      "register": "2020-10-15  16:58:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e5"
+      }
+    },
+    {
+      "register": "2020-10-15  16:59:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454365c"
+      }
+    },
+    {
+      "register": "2020-10-15  17:01:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438c9"
+      }
+    },
+    {
+      "register": "2020-10-15  17:02:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437df"
+      }
+    },
+    {
+      "register": "2020-10-15  17:03:07",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436db"
+      }
+    },
+    {
+      "register": "2020-10-15  17:03:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543911"
+      }
+    },
+    {
+      "register": "2020-10-15  17:03:24",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543754"
+      }
+    },
+    {
+      "register": "2020-10-15  17:03:24",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454395c"
+      }
+    },
+    {
+      "register": "2020-10-15  17:03:26",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543752"
+      }
+    },
+    {
+      "register": "2020-10-15  17:03:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454394d"
+      }
+    },
+    {
+      "register": "2020-10-15  17:03:44",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436e2"
+      }
+    },
+    {
+      "register": "2020-10-15  17:03:50",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437d0"
+      }
+    },
+    {
+      "register": "2020-10-15  17:04:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543820"
+      }
+    },
+    {
+      "register": "2020-10-15  17:04:16",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454379a"
+      }
+    },
+    {
+      "register": "2020-10-15  17:04:17",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438fa"
+      }
+    },
+    {
+      "register": "2020-10-15  17:04:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543760"
+      }
+    },
+    {
+      "register": "2020-10-15  17:04:34",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438c3"
+      }
+    },
+    {
+      "register": "2020-10-15  17:04:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389b"
+      }
+    },
+    {
+      "register": "2020-10-15  17:04:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454399f"
+      }
+    },
+    {
+      "register": "2020-10-15  17:04:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543967"
+      }
+    },
+    {
+      "register": "2020-10-15  17:05:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543961"
+      }
+    },
+    {
+      "register": "2020-10-15  17:05:07",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543990"
+      }
+    },
+    {
+      "register": "2020-10-15  17:05:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543987"
+      }
+    },
+    {
+      "register": "2020-10-15  17:05:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438f6"
+      }
+    },
+    {
+      "register": "2020-10-15  17:05:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543641"
+      }
+    },
+    {
+      "register": "2020-10-15  17:05:47",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543805"
+      }
+    },
+    {
+      "register": "2020-10-15  17:06:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543897"
+      }
+    },
+    {
+      "register": "2020-10-15  17:06:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438dd"
+      }
+    },
+    {
+      "register": "2020-10-15  17:07:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543917"
+      }
+    },
+    {
+      "register": "2020-10-15  17:07:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543920"
+      }
+    },
+    {
+      "register": "2020-10-15  17:07:53",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389e"
+      }
+    },
+    {
+      "register": "2020-10-15  17:08:08",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436db"
+      }
+    },
+    {
+      "register": "2020-10-15  17:09:23",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543983"
+      }
+    },
+    {
+      "register": "2020-10-15  17:09:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543985"
+      }
+    },
+    {
+      "register": "2020-10-15  17:11:48",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543943"
+      }
+    },
+    {
+      "register": "2020-10-15  17:12:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389a"
+      }
+    },
+    {
+      "register": "2020-10-15  17:12:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543958"
+      }
+    },
+    {
+      "register": "2020-10-15  17:12:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ca"
+      }
+    },
+    {
+      "register": "2020-10-15  17:12:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543951"
+      }
+    },
+    {
+      "register": "2020-10-15  17:12:17",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454385c"
+      }
+    },
+    {
+      "register": "2020-10-15  17:12:22",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543822"
+      }
+    },
+    {
+      "register": "2020-10-15  17:12:28",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543960"
+      }
+    },
+    {
+      "register": "2020-10-15  17:12:30",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b9"
+      }
+    },
+    {
+      "register": "2020-10-15  17:12:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543759"
+      }
+    },
+    {
+      "register": "2020-10-15  17:12:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437a5"
+      }
+    },
+    {
+      "register": "2020-10-15  17:12:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454385f"
+      }
+    },
+    {
+      "register": "2020-10-15  17:13:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543850"
+      }
+    },
+    {
+      "register": "2020-10-15  17:13:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454397b"
+      }
+    },
+    {
+      "register": "2020-10-15  17:13:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454387c"
+      }
+    },
+    {
+      "register": "2020-10-15  17:13:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386d"
+      }
+    },
+    {
+      "register": "2020-10-15  17:13:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543755"
+      }
+    },
+    {
+      "register": "2020-10-15  17:13:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436b1"
+      }
+    },
+    {
+      "register": "2020-10-15  17:15:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543916"
+      }
+    },
+    {
+      "register": "2020-10-15  17:15:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543848"
+      }
+    },
+    {
+      "register": "2020-10-15  17:15:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454393d"
+      }
+    },
+    {
+      "register": "2020-10-15  17:15:19",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543959"
+      }
+    },
+    {
+      "register": "2020-10-15  17:15:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438c2"
+      }
+    },
+    {
+      "register": "2020-10-15  17:16:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2020-10-15  17:16:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543834"
+      }
+    },
+    {
+      "register": "2020-10-15  17:16:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b7"
+      }
+    },
+    {
+      "register": "2020-10-15  17:18:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543954"
+      }
+    },
+    {
+      "register": "2020-10-15  17:18:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438d4"
+      }
+    },
+    {
+      "register": "2020-10-15  17:18:28",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543914"
+      }
+    },
+    {
+      "register": "2020-10-15  17:19:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543864"
+      }
+    },
+    {
+      "register": "2020-10-15  17:20:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436c1"
+      }
+    },
+    {
+      "register": "2020-10-15  17:20:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543787"
+      }
+    },
+    {
+      "register": "2020-10-15  17:20:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543782"
+      }
+    },
+    {
+      "register": "2020-10-15  17:21:19",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543968"
+      }
+    },
+    {
+      "register": "2020-10-15  17:21:22",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543981"
+      }
+    },
+    {
+      "register": "2020-10-15  17:22:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437a0"
+      }
+    },
+    {
+      "register": "2020-10-15  17:23:20",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543949"
+      }
+    },
+    {
+      "register": "2020-10-15  17:24:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437f2"
+      }
+    },
+    {
+      "register": "2020-10-15  17:25:19",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438e3"
+      }
+    },
+    {
+      "register": "2020-10-15  17:25:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543969"
+      }
+    },
+    {
+      "register": "2020-10-15  17:25:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543912"
+      }
+    },
+    {
+      "register": "2020-10-15  17:32:17",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454397f"
+      }
+    },
+    {
+      "register": "2020-10-15  17:35:07",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436e3"
+      }
+    },
+    {
+      "register": "2020-10-15  17:48:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386a"
+      }
+    },
+    {
+      "register": "2020-10-15  17:54:36",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543853"
+      }
+    },
+    {
+      "register": "2020-10-15  18:02:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438be"
+      }
+    },
+    {
+      "register": "2020-10-15  18:10:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543837"
+      }
+    },
+    {
+      "register": "2020-10-15  18:13:45",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543835"
+      }
+    },
+    {
+      "register": "2020-10-15  18:18:09",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436c9"
+      }
+    },
+    {
+      "register": "2020-10-15  18:18:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454397c"
+      }
+    },
+    {
+      "register": "2020-10-15  18:21:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454383e"
+      }
+    },
+    {
+      "register": "2020-10-15  18:24:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437ce"
+      }
+    },
+    {
+      "register": "2020-10-16  7:35:20",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543981"
+      }
+    },
+    {
+      "register": "2020-10-16  12:33:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2020-10-16  14:04:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454385c"
+      }
+    },
+    {
+      "register": "2020-10-16  15:58:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543981"
+      }
+    },
+    {
+      "register": "2020-10-17  10:40:22",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543853"
+      }
+    },
+    {
+      "register": "2020-10-17  10:40:24",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543853"
+      }
+    },
+    {
+      "register": "2020-10-23  14:04:15",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2020-10-26  9:43:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2020-10-27  14:00:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6088f4b1ac67911a820f2651"
+  },
+  "title": "¿Me está ligando o me está acosando?",
+  "location": "Conferencia en linea",
+  "date": [
+    "24/02/2021"
+  ],
+  "period": {
+    "$oid": "607c82b0d8f88a43045435d3"
+  },
+  "organizer": {
+    "$oid": "6088c9eaac67911a820f2649"
+  },
+  "assistents": [
+    {
+      "register": "2021-02-24 16:23:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454374e"
+      }
+    },
+    {
+      "register": "2020-10-15  11:56:0",
+      "assistent": {
+        "$oid": "6095d07206cfa1b6296915b6"
+      }
+    },
+    {
+      "register": "2021-02-24 16:30:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543666"
+      }
+    },
+    {
+      "register": "2021-02-24 16:44:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543897"
+      }
+    },
+    {
+      "register": "2021-02-24 16:48:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543852"
+      }
+    },
+    {
+      "register": "2021-02-24 16:52:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543787"
+      }
+    },
+    {
+      "register": "2021-02-24 16:57:19",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543866"
+      }
+    },
+    {
+      "register": "2021-02-24 16:57:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543682"
+      }
+    },
+    {
+      "register": "2021-02-24 17:00:40",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454384d"
+      }
+    },
+    {
+      "register": "2021-02-24 17:01:19",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438f6"
+      }
+    },
+    {
+      "register": "2021-02-24 17:01:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543967"
+      }
+    },
+    {
+      "register": "2021-02-24 17:02:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543862"
+      }
+    },
+    {
+      "register": "2021-02-24 17:04:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454377f"
+      }
+    },
+    {
+      "register": "2021-02-24 17:09:18",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438a4"
+      }
+    },
+    {
+      "register": "2021-02-24 17:10:50",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436d3"
+      }
+    },
+    {
+      "register": "2021-02-24 17:11:36",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543690"
+      }
+    },
+    {
+      "register": "2021-02-24 17:11:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437d9"
+      }
+    },
+    {
+      "register": "2021-02-24 17:11:45",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438b6"
+      }
+    },
+    {
+      "register": "2021-02-24 17:11:50",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e3"
+      }
+    },
+    {
+      "register": "2021-02-24 17:11:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543967"
+      }
+    },
+    {
+      "register": "2021-02-24 17:11:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543754"
+      }
+    },
+    {
+      "register": "2021-02-24 17:11:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543752"
+      }
+    },
+    {
+      "register": "2021-02-24 17:11:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e2"
+      }
+    },
+    {
+      "register": "2021-02-24 17:11:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436af"
+      }
+    },
+    {
+      "register": "2021-02-24 17:11:59",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543763"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436cc"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454379f"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437de"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454379a"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:16",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454366c"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045435fb"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:41",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454375b"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543798"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:47",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454384b"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437a3"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543869"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454383f"
+      }
+    },
+    {
+      "register": "2021-02-24 17:12:59",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437db"
+      }
+    },
+    {
+      "register": "2021-02-24 17:13:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543754"
+      }
+    },
+    {
+      "register": "2021-02-24 17:13:15",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543954"
+      }
+    },
+    {
+      "register": "2021-02-24 17:13:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437df"
+      }
+    },
+    {
+      "register": "2021-02-24 17:13:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436d7"
+      }
+    },
+    {
+      "register": "2021-02-24 17:14:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ef"
+      }
+    },
+    {
+      "register": "2021-02-24 17:14:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543915"
+      }
+    },
+    {
+      "register": "2021-02-24 17:14:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2021-02-24 17:14:14",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454362c"
+      }
+    },
+    {
+      "register": "2021-02-24 17:14:28",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543774"
+      }
+    },
+    {
+      "register": "2021-02-24 17:15:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436b1"
+      }
+    },
+    {
+      "register": "2021-02-24 17:15:18",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437bb"
+      }
+    },
+    {
+      "register": "2021-02-24 17:15:22",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438a0"
+      }
+    },
+    {
+      "register": "2021-02-24 17:15:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454373e"
+      }
+    },
+    {
+      "register": "2021-02-24 17:16:34",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543842"
+      }
+    },
+    {
+      "register": "2021-02-24 17:16:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ee"
+      }
+    },
+    {
+      "register": "2021-02-24 17:17:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436e3"
+      }
+    },
+    {
+      "register": "2021-02-24 17:18:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436f6"
+      }
+    },
+    {
+      "register": "2021-02-24 17:19:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454377c"
+      }
+    },
+    {
+      "register": "2021-02-24 17:19:41",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437c3"
+      }
+    },
+    {
+      "register": "2021-02-24 17:21:29",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436db"
+      }
+    },
+    {
+      "register": "2021-02-24 17:22:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454368b"
+      }
+    },
+    {
+      "register": "2021-02-24 17:24:36",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543870"
+      }
+    },
+    {
+      "register": "2021-02-24 17:25:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543769"
+      }
+    },
+    {
+      "register": "2021-02-24 17:25:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437ff"
+      }
+    },
+    {
+      "register": "2021-02-24 17:25:09",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543904"
+      }
+    },
+    {
+      "register": "2021-02-24 17:25:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454380b"
+      }
+    },
+    {
+      "register": "2021-02-24 17:27:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438fb"
+      }
+    },
+    {
+      "register": "2021-02-24 17:28:26",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543823"
+      }
+    },
+    {
+      "register": "2021-02-24 17:28:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543848"
+      }
+    },
+    {
+      "register": "2021-02-24 17:28:36",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436ab"
+      }
+    },
+    {
+      "register": "2021-02-24 17:29:23",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438d1"
+      }
+    },
+    {
+      "register": "2021-02-24 17:29:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543756"
+      }
+    },
+    {
+      "register": "2021-02-24 17:29:44",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454375d"
+      }
+    },
+    {
+      "register": "2021-02-24 17:30:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543834"
+      }
+    },
+    {
+      "register": "2021-02-24 17:30:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543959"
+      }
+    },
+    {
+      "register": "2021-02-24 17:30:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437bf"
+      }
+    },
+    {
+      "register": "2021-02-24 17:31:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543918"
+      }
+    },
+    {
+      "register": "2021-02-24 17:31:14",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543827"
+      }
+    },
+    {
+      "register": "2021-02-24 17:31:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e4"
+      }
+    },
+    {
+      "register": "2021-02-24 17:33:26",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454397c"
+      }
+    },
+    {
+      "register": "2021-02-24 17:35:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436f0"
+      }
+    },
+    {
+      "register": "2021-02-24 17:35:56",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543797"
+      }
+    },
+    {
+      "register": "2021-02-24 17:36:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437c4"
+      }
+    },
+    {
+      "register": "2021-02-24 17:39:31",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543761"
+      }
+    },
+    {
+      "register": "2021-02-24 17:42:41",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438f1"
+      }
+    },
+    {
+      "register": "2021-02-24 17:42:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436fc"
+      }
+    },
+    {
+      "register": "2021-02-24 17:44:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543820"
+      }
+    },
+    {
+      "register": "2021-02-24 17:45:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436f0"
+      }
+    },
+    {
+      "register": "2021-02-24 17:49:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543949"
+      }
+    },
+    {
+      "register": "2021-02-24 18:05:59",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389d"
+      }
+    },
+    {
+      "register": "2021-02-24 18:11:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437c5"
+      }
+    },
+    {
+      "register": "2021-02-24 18:30:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454384b"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608a0a09ac67911a820f2654"
+  },
+  "title": "¿Cómo ligar sin acosar?",
+  "location": "Conferencia en linea",
+  "date": [
+    "23/02/2021"
+  ],
+  "period": {
+    "$oid": "607c82b0d8f88a43045435d3"
+  },
+  "organizer": {
+    "$oid": "6088c9eaac67911a820f2649"
+  },
+  "assistents": [
+    {
+      "register": "2021-02-24 17:30:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543959"
+      }
+    },
+    {
+      "register": "2021-02-24 17:30:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437bf"
+      }
+    },
+    {
+      "register": "2021-02-24 17:31:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543918"
+      }
+    },
+    {
+      "register": "2021-02-24 17:31:14",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543827"
+      }
+    },
+    {
+      "register": "2021-02-24 17:31:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e4"
+      }
+    },
+    {
+      "register": "2021-02-24 17:33:26",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454397c"
+      }
+    },
+    {
+      "register": "2021-02-24 17:35:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436f0"
+      }
+    },
+    {
+      "register": "2021-02-24 17:35:56",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543797"
+      }
+    },
+    {
+      "register": "2021-02-24 17:36:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437c4"
+      }
+    },
+    {
+      "register": "2021-02-24 17:39:31",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543761"
+      }
+    },
+    {
+      "register": "2021-02-24 17:42:41",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438f1"
+      }
+    },
+    {
+      "register": "2021-02-24 17:42:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436fc"
+      }
+    },
+    {
+      "register": "2021-02-24 17:44:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543820"
+      }
+    },
+    {
+      "register": "2021-02-24 17:45:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436f0"
+      }
+    },
+    {
+      "register": "2021-02-24 17:49:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543949"
+      }
+    },
+    {
+      "register": "2021-02-24 18:05:59",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389d"
+      }
+    },
+    {
+      "register": "2021-02-24 18:11:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437c5"
+      }
+    },
+    {
+      "register": "2021-02-24 18:30:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454384b"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608a0a6aac67911a820f2655"
+  },
+  "title": "Ley Olimpia y la violencia hacia las mujeres por medios digitales",
+  "location": "Conferencia en linea",
+  "date": [
+    "24/10/2020"
+  ],
+  "period": {
+    "$oid": "607c82b0d8f88a43045435d3"
+  },
+  "organizer": {
+    "$oid": "6088c9eaac67911a820f2649"
+  },
+  "assistents": [
+    {
+      "register": "2020-11-20 17:47:11",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543922"
+      }
+    },
+    {
+      "register": "2020-11-20 19:36:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436af"
+      }
+    },
+    {
+      "register": "2020-11-22 22:08:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543960"
+      }
+    },
+    {
+      "register": "2020-11-22 22:12:18",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543600"
+      }
+    },
+    {
+      "register": "2020-11-22 22:25:14",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ec"
+      }
+    },
+    {
+      "register": "2020-11-22 22:27:36",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454376b"
+      }
+    },
+    {
+      "register": "2020-11-22 23:04:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ba"
+      }
+    },
+    {
+      "register": "2020-11-22 23:10:15",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543948"
+      }
+    },
+    {
+      "register": "2020-11-23 8:10:36",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543666"
+      }
+    },
+    {
+      "register": "2020-11-23 9:13:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436e2"
+      }
+    },
+    {
+      "register": "2020-11-23 9:20:28",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543867"
+      }
+    },
+    {
+      "register": "2020-11-23 9:20:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543968"
+      }
+    },
+    {
+      "register": "2020-11-23 9:21:40",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389b"
+      }
+    },
+    {
+      "register": "2020-11-23 9:26:08",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543829"
+      }
+    },
+    {
+      "register": "2020-11-23 9:32:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436bd"
+      }
+    },
+    {
+      "register": "2020-11-23 9:44:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438fa"
+      }
+    },
+    {
+      "register": "2020-11-23 9:54:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543827"
+      }
+    },
+    {
+      "register": "2020-11-23 9:55:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543967"
+      }
+    },
+    {
+      "register": "2020-11-23 9:58:29",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543945"
+      }
+    },
+    {
+      "register": "2020-11-23 10:00:15",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438d7"
+      }
+    },
+    {
+      "register": "2020-11-23 10:03:18",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438b1"
+      }
+    },
+    {
+      "register": "2020-11-23 10:16:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436ab"
+      }
+    },
+    {
+      "register": "2020-11-23 10:26:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454394a"
+      }
+    },
+    {
+      "register": "2020-11-23 12:02:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454375d"
+      }
+    },
+    {
+      "register": "2020-11-23 12:12:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543843"
+      }
+    },
+    {
+      "register": "2020-11-23 12:45:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543969"
+      }
+    },
+    {
+      "register": "2020-11-23 12:48:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454380f"
+      }
+    },
+    {
+      "register": "2020-11-23 13:29:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454394a"
+      }
+    },
+    {
+      "register": "2020-11-23 13:59:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543856"
+      }
+    },
+    {
+      "register": "2020-11-23 15:14:45",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543996"
+      }
+    },
+    {
+      "register": "2020-11-23 15:25:08",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543606"
+      }
+    },
+    {
+      "register": "2020-11-23 15:40:08",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454397c"
+      }
+    },
+    {
+      "register": "2020-11-23 15:43:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543973"
+      }
+    },
+    {
+      "register": "2020-11-23 16:02:23",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543770"
+      }
+    },
+    {
+      "register": "2020-11-23 16:23:25",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438dc"
+      }
+    },
+    {
+      "register": "2020-11-23 19:55:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543806"
+      }
+    },
+    {
+      "register": "2020-11-23 20:44:11",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438c2"
+      }
+    },
+    {
+      "register": "2020-11-23 21:01:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436ab"
+      }
+    },
+    {
+      "register": "2020-11-23 21:11:28",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045439ad"
+      }
+    },
+    {
+      "register": "2020-11-23 21:30:44",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454397f"
+      }
+    },
+    {
+      "register": "2020-11-23 22:15:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543970"
+      }
+    },
+    {
+      "register": "2020-11-24 0:13:41",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389a"
+      }
+    },
+    {
+      "register": "2020-11-24 9:18:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438dc"
+      }
+    },
+    {
+      "register": "2020-11-24 9:34:15",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438e8"
+      }
+    },
+    {
+      "register": "2020-11-24 9:35:08",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ca"
+      }
+    },
+    {
+      "register": "2020-11-24 9:36:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543836"
+      }
+    },
+    {
+      "register": "2020-11-24 9:36:45",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454376d"
+      }
+    },
+    {
+      "register": "2020-11-24 9:37:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543977"
+      }
+    },
+    {
+      "register": "2020-11-24 9:37:17",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454387d"
+      }
+    },
+    {
+      "register": "2020-11-24 9:37:24",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543917"
+      }
+    },
+    {
+      "register": "2020-11-24 9:37:25",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045439ac"
+      }
+    },
+    {
+      "register": "2020-11-24 9:37:44",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454395f"
+      }
+    },
+    {
+      "register": "2020-11-24 9:38:23",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b3"
+      }
+    },
+    {
+      "register": "2020-11-24 9:38:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b7"
+      }
+    },
+    {
+      "register": "2020-11-24 9:39:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543848"
+      }
+    },
+    {
+      "register": "2020-11-24 9:42:29",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543919"
+      }
+    },
+    {
+      "register": "2020-11-24 9:42:51",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454390d"
+      }
+    },
+    {
+      "register": "2020-11-24 9:43:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438b4"
+      }
+    },
+    {
+      "register": "2020-11-24 9:44:59",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454377f"
+      }
+    },
+    {
+      "register": "2020-11-24 9:46:31",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438f6"
+      }
+    },
+    {
+      "register": "2020-11-24 9:46:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543920"
+      }
+    },
+    {
+      "register": "2020-11-24 9:50:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543974"
+      }
+    },
+    {
+      "register": "2020-11-24 9:58:51",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454387c"
+      }
+    },
+    {
+      "register": "2020-11-24 10:01:16",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437ba"
+      }
+    },
+    {
+      "register": "2020-11-24 10:12:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454387b"
+      }
+    },
+    {
+      "register": "2020-11-24 10:14:40",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b8"
+      }
+    },
+    {
+      "register": "2020-11-24 10:24:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454393f"
+      }
+    },
+    {
+      "register": "2020-11-24 10:24:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543954"
+      }
+    },
+    {
+      "register": "2020-11-24 10:25:07",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543958"
+      }
+    },
+    {
+      "register": "2020-11-24 10:43:24",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437d0"
+      }
+    },
+    {
+      "register": "2020-11-24 10:57:14",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543919"
+      }
+    },
+    {
+      "register": "2020-11-24 11:09:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543944"
+      }
+    },
+    {
+      "register": "2020-11-24 11:46:48",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543837"
+      }
+    },
+    {
+      "register": "2020-11-24 11:54:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543988"
+      }
+    },
+    {
+      "register": "2020-11-24 11:55:15",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436cc"
+      }
+    },
+    {
+      "register": "2020-11-24 11:55:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543887"
+      }
+    },
+    {
+      "register": "2020-11-24 11:55:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436b5"
+      }
+    },
+    {
+      "register": "2020-11-24 11:56:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543892"
+      }
+    },
+    {
+      "register": "2020-11-24 11:57:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437d4"
+      }
+    },
+    {
+      "register": "2020-11-24 13:00:22",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389c"
+      }
+    },
+    {
+      "register": "2020-11-24 13:43:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454385f"
+      }
+    },
+    {
+      "register": "2020-11-24 14:12:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543990"
+      }
+    },
+    {
+      "register": "2020-11-24 14:20:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454388a"
+      }
+    },
+    {
+      "register": "2020-11-24 15:27:26",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543973"
+      }
+    },
+    {
+      "register": "2020-11-24 15:34:40",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438d4"
+      }
+    },
+    {
+      "register": "2020-11-24 16:04:48",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454394d"
+      }
+    },
+    {
+      "register": "2020-11-24 16:16:53",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437ee"
+      }
+    },
+    {
+      "register": "2020-11-24 16:22:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543915"
+      }
+    },
+    {
+      "register": "2020-11-24 16:25:15",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543752"
+      }
+    },
+    {
+      "register": "2020-11-24 16:27:09",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454390c"
+      }
+    },
+    {
+      "register": "2020-11-24 16:35:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437df"
+      }
+    },
+    {
+      "register": "2020-11-24 16:36:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543759"
+      }
+    },
+    {
+      "register": "2020-11-24 16:37:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543893"
+      }
+    },
+    {
+      "register": "2020-11-24 16:42:36",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438e3"
+      }
+    },
+    {
+      "register": "2020-11-24 16:57:23",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543916"
+      }
+    },
+    {
+      "register": "2020-11-24 16:57:50",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2020-11-24 16:58:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543897"
+      }
+    },
+    {
+      "register": "2020-11-24 16:58:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543873"
+      }
+    },
+    {
+      "register": "2020-11-24 16:59:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543967"
+      }
+    },
+    {
+      "register": "2020-11-24 16:59:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543853"
+      }
+    },
+    {
+      "register": "2020-11-24 17:00:31",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543861"
+      }
+    },
+    {
+      "register": "2020-11-24 17:00:44",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454393d"
+      }
+    },
+    {
+      "register": "2020-11-24 17:00:47",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543941"
+      }
+    },
+    {
+      "register": "2020-11-24 17:00:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e5"
+      }
+    },
+    {
+      "register": "2020-11-24 17:01:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454385b"
+      }
+    },
+    {
+      "register": "2020-11-24 17:01:09",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543850"
+      }
+    },
+    {
+      "register": "2020-11-24 17:01:59",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454369e"
+      }
+    },
+    {
+      "register": "2020-11-24 17:02:16",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454369e"
+      }
+    },
+    {
+      "register": "2020-11-24 17:03:08",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454396b"
+      }
+    },
+    {
+      "register": "2020-11-24 17:03:09",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454394e"
+      }
+    },
+    {
+      "register": "2020-11-24 17:03:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543951"
+      }
+    },
+    {
+      "register": "2020-11-24 17:04:29",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438be"
+      }
+    },
+    {
+      "register": "2020-11-24 17:04:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543949"
+      }
+    },
+    {
+      "register": "2020-11-24 17:05:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543911"
+      }
+    },
+    {
+      "register": "2020-11-24 17:05:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e6"
+      }
+    },
+    {
+      "register": "2020-11-24 17:05:31",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438af"
+      }
+    },
+    {
+      "register": "2020-11-24 17:05:50",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543870"
+      }
+    },
+    {
+      "register": "2020-11-24 17:07:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543886"
+      }
+    },
+    {
+      "register": "2020-11-24 17:08:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436db"
+      }
+    },
+    {
+      "register": "2020-11-24 17:08:47",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b0"
+      }
+    },
+    {
+      "register": "2020-11-24 17:09:14",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e3"
+      }
+    },
+    {
+      "register": "2020-11-24 17:09:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e3"
+      }
+    },
+    {
+      "register": "2020-11-24 17:10:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543813"
+      }
+    },
+    {
+      "register": "2020-11-24 17:11:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543823"
+      }
+    },
+    {
+      "register": "2020-11-24 17:12:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386f"
+      }
+    },
+    {
+      "register": "2020-11-24 17:13:31",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543813"
+      }
+    },
+    {
+      "register": "2020-11-24 17:14:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543943"
+      }
+    },
+    {
+      "register": "2020-11-24 17:17:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543951"
+      }
+    },
+    {
+      "register": "2020-11-24 17:17:48",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438de"
+      }
+    },
+    {
+      "register": "2020-11-24 17:18:19",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389f"
+      }
+    },
+    {
+      "register": "2020-11-24 17:18:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386e"
+      }
+    },
+    {
+      "register": "2020-11-24 17:24:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438fb"
+      }
+    },
+    {
+      "register": "2020-11-24 17:27:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437ce"
+      }
+    },
+    {
+      "register": "2020-11-24 17:31:45",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543914"
+      }
+    },
+    {
+      "register": "2020-11-24 17:40:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386d"
+      }
+    },
+    {
+      "register": "2020-11-24 17:45:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437ff"
+      }
+    },
+    {
+      "register": "2020-11-24 17:45:30",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543839"
+      }
+    },
+    {
+      "register": "2020-11-24 17:48:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cd"
+      }
+    },
+    {
+      "register": "2020-11-24 17:51:51",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454383e"
+      }
+    },
+    {
+      "register": "2020-11-24 18:09:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389e"
+      }
+    },
+    {
+      "register": "2020-11-24 18:10:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436b1"
+      }
+    },
+    {
+      "register": "2020-11-24 18:10:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543978"
+      }
+    },
+    {
+      "register": "2020-11-24 18:10:53",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436db"
+      }
+    },
+    {
+      "register": "2020-11-24 18:12:48",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438a0"
+      }
+    },
+    {
+      "register": "2020-11-24 20:54:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389f"
+      }
+    },
+    {
+      "register": "2020-11-25 7:11:41",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543763"
+      }
+    },
+    {
+      "register": "2020-11-25 10:45:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2020-11-25 14:18:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543920"
+      }
+    },
+    {
+      "register": "2020-11-25 15:33:23",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436b5"
+      }
+    },
+    {
+      "register": "2020-11-26 1:11:18",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438af"
+      }
+    },
+    {
+      "register": "2020-11-26 10:08:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b8"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608a0ab2ac67911a820f2656"
+  },
+  "title": "Salud Reproductiva, Métodos Anticonceptivos",
+  "location": "Conferencia en linea",
+  "date": [
+    "03/03/2021"
+  ],
+  "period": {
+    "$oid": "607c82b0d8f88a43045435d3"
+  },
+  "organizer": {
+    "$oid": "6088ca12ac67911a820f264a"
+  },
+  "assistents": [
+    {
+      "register": "2021-03-03 11:34:51",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454379c"
+      }
+    },
+    {
+      "register": "2021-03-03 11:35:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543853"
+      }
+    },
+    {
+      "register": "2021-03-03 11:35:19",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543857"
+      }
+    },
+    {
+      "register": "2021-03-03 11:35:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454384a"
+      }
+    },
+    {
+      "register": "2021-03-03 11:35:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454384d"
+      }
+    },
+    {
+      "register": "2021-03-03 11:35:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543752"
+      }
+    },
+    {
+      "register": "2021-03-03 11:35:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cd"
+      }
+    },
+    {
+      "register": "2021-03-03 11:35:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543864"
+      }
+    },
+    {
+      "register": "2021-03-03 11:35:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454379e"
+      }
+    },
+    {
+      "register": "2021-03-03 11:36:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454383e"
+      }
+    },
+    {
+      "register": "2021-03-03 11:36:08",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543852"
+      }
+    },
+    {
+      "register": "2021-03-03 11:36:08",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454376c"
+      }
+    },
+    {
+      "register": "2021-03-03 11:36:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454376c"
+      }
+    },
+    {
+      "register": "2021-03-03 11:37:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543759"
+      }
+    },
+    {
+      "register": "2021-03-03 11:37:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543786"
+      }
+    },
+    {
+      "register": "2021-03-03 11:38:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543866"
+      }
+    },
+    {
+      "register": "2021-03-03 11:38:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543894"
+      }
+    },
+    {
+      "register": "2021-03-03 11:38:28",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386b"
+      }
+    },
+    {
+      "register": "2021-03-03 11:39:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543848"
+      }
+    },
+    {
+      "register": "2021-03-03 11:39:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543861"
+      }
+    },
+    {
+      "register": "2021-03-03 11:39:44",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454377f"
+      }
+    },
+    {
+      "register": "2021-03-03 11:40:23",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543865"
+      }
+    },
+    {
+      "register": "2021-03-03 11:42:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b7"
+      }
+    },
+    {
+      "register": "2021-03-03 11:45:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543757"
+      }
+    },
+    {
+      "register": "2021-03-03 11:45:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543827"
+      }
+    },
+    {
+      "register": "2021-03-03 11:46:28",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543880"
+      }
+    },
+    {
+      "register": "2021-03-03 11:50:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543873"
+      }
+    },
+    {
+      "register": "2021-03-03 11:52:36",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437d0"
+      }
+    },
+    {
+      "register": "2021-03-03 11:53:40",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436af"
+      }
+    },
+    {
+      "register": "2021-03-03 11:53:48",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543754"
+      }
+    },
+    {
+      "register": "2021-03-03 11:54:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543967"
+      }
+    },
+    {
+      "register": "2021-03-03 11:54:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543897"
+      }
+    },
+    {
+      "register": "2021-03-03 11:54:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543893"
+      }
+    },
+    {
+      "register": "2021-03-03 11:56:53",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437d1"
+      }
+    },
+    {
+      "register": "2021-03-03 11:56:56",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386a"
+      }
+    },
+    {
+      "register": "2021-03-03 11:57:07",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454388a"
+      }
+    },
+    {
+      "register": "2021-03-03 11:58:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437a3"
+      }
+    },
+    {
+      "register": "2021-03-03 11:58:26",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454371a"
+      }
+    },
+    {
+      "register": "2021-03-03 12:02:18",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437ac"
+      }
+    },
+    {
+      "register": "2021-03-03 12:02:28",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543787"
+      }
+    },
+    {
+      "register": "2021-03-03 12:07:11",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437bb"
+      }
+    },
+    {
+      "register": "2021-03-03 12:11:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454375b"
+      }
+    },
+    {
+      "register": "2021-03-03 12:21:08",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436d7"
+      }
+    },
+    {
+      "register": "2021-03-03 12:22:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454388b"
+      }
+    },
+    {
+      "register": "2021-03-03 12:24:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454378b"
+      }
+    },
+    {
+      "register": "2021-03-03 12:26:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543766"
+      }
+    },
+    {
+      "register": "2021-03-03 12:31:50",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543797"
+      }
+    },
+    {
+      "register": "2021-03-03 12:53:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454387c"
+      }
+    },
+    {
+      "register": "2021-03-03 13:17:30",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543965"
+      }
+    },
+    {
+      "register": "2021-03-03 14:03:48",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543774"
+      }
+    },
+    {
+      "register": "2021-03-04 9:18:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454375f"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608a0cc7ac67911a820f2658"
+  },
+  "title": "Retos de las Masculinidades Modernas",
+  "location": "Conferencia en linea",
+  "date": [
+    "15/10/2020"
+  ],
+  "period": {
+    "$oid": "607c82b0d8f88a43045435d3"
+  },
+  "organizer": {
+    "$oid": "6088c9eaac67911a820f2649"
+  },
+  "assistents": [
+    {
+      "register": "2020-10-15 11:55:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ec"
+      }
+    },
+    {
+      "register": "2020-10-15  11:56:0",
+      "assistent": {
+        "$oid": "6095d07206cfa1b6296915b6"
+      }
+    },
+    {
+      "register": "2020-10-15 11:56:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436e2"
+      }
+    },
+    {
+      "register": "2020-10-15 11:56:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436db"
+      }
+    },
+    {
+      "register": "2020-10-15 11:56:44",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436e9"
+      }
+    },
+    {
+      "register": "2020-10-15 11:57:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454375d"
+      }
+    },
+    {
+      "register": "2020-10-15 11:57:15",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389c"
+      }
+    },
+    {
+      "register": "2020-10-15 11:57:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438fa"
+      }
+    },
+    {
+      "register": "2020-10-15 12:02:26",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454369e"
+      }
+    },
+    {
+      "register": "2020-10-15 12:02:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543822"
+      }
+    },
+    {
+      "register": "2020-10-15 12:02:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436af"
+      }
+    },
+    {
+      "register": "2020-10-15 12:04:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543641"
+      }
+    },
+    {
+      "register": "2020-10-15 12:06:34",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389a"
+      }
+    },
+    {
+      "register": "2020-10-15 12:11:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543988"
+      }
+    },
+    {
+      "register": "2020-10-15 12:13:22",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389b"
+      }
+    },
+    {
+      "register": "2020-10-15 12:17:41",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454366b"
+      }
+    },
+    {
+      "register": "2020-10-15 12:19:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543643"
+      }
+    },
+    {
+      "register": "2020-10-15 12:22:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386d"
+      }
+    },
+    {
+      "register": "2020-10-15 12:27:14",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437d4"
+      }
+    },
+    {
+      "register": "2020-10-15 12:31:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454363b"
+      }
+    },
+    {
+      "register": "2020-10-15 12:39:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543647"
+      }
+    },
+    {
+      "register": "2020-10-15 12:47:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543839"
+      }
+    },
+    {
+      "register": "2020-10-15 12:49:20",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436b1"
+      }
+    },
+    {
+      "register": "2020-10-15 13:01:09",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438a0"
+      }
+    },
+    {
+      "register": "2020-10-15 13:03:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438e8"
+      }
+    },
+    {
+      "register": "2020-10-15 13:03:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ff"
+      }
+    },
+    {
+      "register": "2020-10-15 13:04:18",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438c2"
+      }
+    },
+    {
+      "register": "2020-10-15 13:04:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543967"
+      }
+    },
+    {
+      "register": "2020-10-15 13:14:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438f3"
+      }
+    },
+    {
+      "register": "2020-10-15 13:14:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438d7"
+      }
+    },
+    {
+      "register": "2020-10-15 13:21:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543765"
+      }
+    },
+    {
+      "register": "2020-10-15 13:28:40",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543922"
+      }
+    },
+    {
+      "register": "2020-10-15 13:52:56",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543978"
+      }
+    },
+    {
+      "register": "2020-10-15 14:04:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543822"
+      }
+    },
+    {
+      "register": "2020-10-15 14:29:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454379a"
+      }
+    },
+    {
+      "register": "2020-10-15 14:49:50",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454376b"
+      }
+    },
+    {
+      "register": "2020-10-15 14:50:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543755"
+      }
+    },
+    {
+      "register": "2020-10-15 14:51:14",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543754"
+      }
+    },
+    {
+      "register": "2020-10-15 14:51:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437a5"
+      }
+    },
+    {
+      "register": "2020-10-15 14:52:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b9"
+      }
+    },
+    {
+      "register": "2020-10-15 14:59:19",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543870"
+      }
+    },
+    {
+      "register": "2020-10-15 15:02:17",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543870"
+      }
+    },
+    {
+      "register": "2020-10-15 15:35:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e3"
+      }
+    },
+    {
+      "register": "2020-10-15 15:38:40",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543823"
+      }
+    },
+    {
+      "register": "2020-10-15 15:40:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543823"
+      }
+    },
+    {
+      "register": "2020-10-15 15:48:29",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543886"
+      }
+    },
+    {
+      "register": "2020-10-15 15:55:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543813"
+      }
+    },
+    {
+      "register": "2020-10-15 16:16:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436ab"
+      }
+    },
+    {
+      "register": "2020-10-15 16:23:26",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543867"
+      }
+    },
+    {
+      "register": "2020-10-15 16:52:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454382c"
+      }
+    },
+    {
+      "register": "2020-10-15 16:54:56",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2020-10-15 16:55:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386e"
+      }
+    },
+    {
+      "register": "2020-10-15 16:56:11",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045439ac"
+      }
+    },
+    {
+      "register": "2020-10-15 16:57:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437ff"
+      }
+    },
+    {
+      "register": "2020-10-15 16:57:29",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b3"
+      }
+    },
+    {
+      "register": "2020-10-15 16:57:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386f"
+      }
+    },
+    {
+      "register": "2020-10-15 16:58:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e5"
+      }
+    },
+    {
+      "register": "2020-10-15 16:59:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454365c"
+      }
+    },
+    {
+      "register": "2020-10-15 17:01:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438c9"
+      }
+    },
+    {
+      "register": "2020-10-15 17:02:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437df"
+      }
+    },
+    {
+      "register": "2020-10-15 17:03:07",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436db"
+      }
+    },
+    {
+      "register": "2020-10-15 17:03:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543911"
+      }
+    },
+    {
+      "register": "2020-10-15 17:03:24",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543754"
+      }
+    },
+    {
+      "register": "2020-10-15 17:03:24",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454395c"
+      }
+    },
+    {
+      "register": "2020-10-15 17:03:26",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543752"
+      }
+    },
+    {
+      "register": "2020-10-15 17:03:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454394d"
+      }
+    },
+    {
+      "register": "2020-10-15 17:03:44",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436e2"
+      }
+    },
+    {
+      "register": "2020-10-15 17:03:50",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437d0"
+      }
+    },
+    {
+      "register": "2020-10-15 17:04:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543820"
+      }
+    },
+    {
+      "register": "2020-10-15 17:04:16",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454379a"
+      }
+    },
+    {
+      "register": "2020-10-15 17:04:17",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438fa"
+      }
+    },
+    {
+      "register": "2020-10-15 17:04:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543760"
+      }
+    },
+    {
+      "register": "2020-10-15 17:04:34",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438c3"
+      }
+    },
+    {
+      "register": "2020-10-15 17:04:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389b"
+      }
+    },
+    {
+      "register": "2020-10-15 17:04:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454399f"
+      }
+    },
+    {
+      "register": "2020-10-15 17:04:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543967"
+      }
+    },
+    {
+      "register": "2020-10-15 17:05:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543961"
+      }
+    },
+    {
+      "register": "2020-10-15 17:05:07",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543990"
+      }
+    },
+    {
+      "register": "2020-10-15 17:05:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543987"
+      }
+    },
+    {
+      "register": "2020-10-15 17:05:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438f6"
+      }
+    },
+    {
+      "register": "2020-10-15 17:05:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543641"
+      }
+    },
+    {
+      "register": "2020-10-15 17:05:47",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543805"
+      }
+    },
+    {
+      "register": "2020-10-15 17:06:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543897"
+      }
+    },
+    {
+      "register": "2020-10-15 17:06:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438dd"
+      }
+    },
+    {
+      "register": "2020-10-15 17:07:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543917"
+      }
+    },
+    {
+      "register": "2020-10-15 17:07:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543920"
+      }
+    },
+    {
+      "register": "2020-10-15 17:07:53",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389e"
+      }
+    },
+    {
+      "register": "2020-10-15 17:08:08",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436db"
+      }
+    },
+    {
+      "register": "2020-10-15 17:09:23",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543983"
+      }
+    },
+    {
+      "register": "2020-10-15 17:09:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543985"
+      }
+    },
+    {
+      "register": "2020-10-15 17:11:48",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543943"
+      }
+    },
+    {
+      "register": "2020-10-15 17:12:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389a"
+      }
+    },
+    {
+      "register": "2020-10-15 17:12:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543958"
+      }
+    },
+    {
+      "register": "2020-10-15 17:12:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ca"
+      }
+    },
+    {
+      "register": "2020-10-15 17:12:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543951"
+      }
+    },
+    {
+      "register": "2020-10-15 17:12:17",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454385c"
+      }
+    },
+    {
+      "register": "2020-10-15 17:12:22",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543822"
+      }
+    },
+    {
+      "register": "2020-10-15 17:12:28",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543960"
+      }
+    },
+    {
+      "register": "2020-10-15 17:12:30",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b9"
+      }
+    },
+    {
+      "register": "2020-10-15 17:12:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543759"
+      }
+    },
+    {
+      "register": "2020-10-15 17:12:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437a5"
+      }
+    },
+    {
+      "register": "2020-10-15 17:12:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454385f"
+      }
+    },
+    {
+      "register": "2020-10-15 17:13:32",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543850"
+      }
+    },
+    {
+      "register": "2020-10-15 17:13:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454397b"
+      }
+    },
+    {
+      "register": "2020-10-15 17:13:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454387c"
+      }
+    },
+    {
+      "register": "2020-10-15 17:13:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386d"
+      }
+    },
+    {
+      "register": "2020-10-15 17:13:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543755"
+      }
+    },
+    {
+      "register": "2020-10-15 17:13:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436b1"
+      }
+    },
+    {
+      "register": "2020-10-15 17:15:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543916"
+      }
+    },
+    {
+      "register": "2020-10-15 17:15:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543848"
+      }
+    },
+    {
+      "register": "2020-10-15 17:15:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454393d"
+      }
+    },
+    {
+      "register": "2020-10-15 17:15:19",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543959"
+      }
+    },
+    {
+      "register": "2020-10-15 17:15:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438c2"
+      }
+    },
+    {
+      "register": "2020-10-15 17:16:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2020-10-15 17:16:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543834"
+      }
+    },
+    {
+      "register": "2020-10-15 17:16:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437b7"
+      }
+    },
+    {
+      "register": "2020-10-15 17:18:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543954"
+      }
+    },
+    {
+      "register": "2020-10-15 17:18:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438d4"
+      }
+    },
+    {
+      "register": "2020-10-15 17:18:28",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543914"
+      }
+    },
+    {
+      "register": "2020-10-15 17:19:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543864"
+      }
+    },
+    {
+      "register": "2020-10-15 17:20:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436c1"
+      }
+    },
+    {
+      "register": "2020-10-15 17:20:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543787"
+      }
+    },
+    {
+      "register": "2020-10-15 17:20:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543782"
+      }
+    },
+    {
+      "register": "2020-10-15 17:21:19",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543968"
+      }
+    },
+    {
+      "register": "2020-10-15 17:21:22",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543981"
+      }
+    },
+    {
+      "register": "2020-10-15 17:22:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437a0"
+      }
+    },
+    {
+      "register": "2020-10-15 17:23:20",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543949"
+      }
+    },
+    {
+      "register": "2020-10-15 17:24:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437f2"
+      }
+    },
+    {
+      "register": "2020-10-15 17:25:19",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438e3"
+      }
+    },
+    {
+      "register": "2020-10-15 17:25:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543969"
+      }
+    },
+    {
+      "register": "2020-10-15 17:25:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543912"
+      }
+    },
+    {
+      "register": "2020-10-15 17:32:17",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454397f"
+      }
+    },
+    {
+      "register": "2020-10-15 17:35:07",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436e3"
+      }
+    },
+    {
+      "register": "2020-10-15 17:48:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386a"
+      }
+    },
+    {
+      "register": "2020-10-15 17:54:36",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543853"
+      }
+    },
+    {
+      "register": "2020-10-15 18:02:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438be"
+      }
+    },
+    {
+      "register": "2020-10-15 18:10:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543837"
+      }
+    },
+    {
+      "register": "2020-10-15 18:13:45",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543835"
+      }
+    },
+    {
+      "register": "2020-10-15 18:18:09",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436c9"
+      }
+    },
+    {
+      "register": "2020-10-15 18:18:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454397c"
+      }
+    },
+    {
+      "register": "2020-10-15 18:21:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454383e"
+      }
+    },
+    {
+      "register": "2020-10-15 18:24:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437ce"
+      }
+    },
+    {
+      "register": "2020-10-16 7:35:20",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543981"
+      }
+    },
+    {
+      "register": "2020-10-16 12:33:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2020-10-16 14:04:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454385c"
+      }
+    },
+    {
+      "register": "2020-10-16 15:58:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543981"
+      }
+    },
+    {
+      "register": "2020-10-17 10:40:22",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543853"
+      }
+    },
+    {
+      "register": "2020-10-17 10:40:24",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543853"
+      }
+    },
+    {
+      "register": "2020-10-23 14:04:15",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2020-10-26 9:43:13",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2020-10-27 14:00:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608a182eac67911a820f265b"
+  },
+  "title": "EL CONSUMO DE ALCOHOL EN TIEMPOS DE PANDEMIA",
+  "location": "Conferencia en linea",
+  "date": [
+    "26/01/2020"
+  ],
+  "period": {
+    "$oid": "607c82b0d8f88a43045435d3"
+  },
+  "organizer": {
+    "$oid": "6088c9b8ac67911a820f2648"
+  },
+  "assistents": [
+    {
+      "register": "2021-01-23 18:34:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543985"
+      }
+    },
+    {
+      "register": "2020-10-15  11:56:0",
+      "assistent": {
+        "$oid": "6095d07206cfa1b6296915b6"
+      }
+    },
+    {
+      "register": "2021-01-23 18:35:35",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436b8"
+      }
+    },
+    {
+      "register": "2021-01-23 18:37:11",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543861"
+      }
+    },
+    {
+      "register": "2021-01-23 18:40:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438c2"
+      }
+    },
+    {
+      "register": "2021-01-23 18:49:01",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454394b"
+      }
+    },
+    {
+      "register": "2021-01-23 19:00:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543983"
+      }
+    },
+    {
+      "register": "2021-01-23 19:12:26",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438f6"
+      }
+    },
+    {
+      "register": "2021-01-23 22:23:22",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436b6"
+      }
+    },
+    {
+      "register": "2021-01-25 9:41:04",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ec"
+      }
+    },
+    {
+      "register": "2021-01-25 9:41:29",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389c"
+      }
+    },
+    {
+      "register": "2021-01-25 9:42:07",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543892"
+      }
+    },
+    {
+      "register": "2021-01-25 9:42:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386e"
+      }
+    },
+    {
+      "register": "2021-01-25 9:45:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543988"
+      }
+    },
+    {
+      "register": "2021-01-25 9:45:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543839"
+      }
+    },
+    {
+      "register": "2021-01-25 9:46:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389b"
+      }
+    },
+    {
+      "register": "2021-01-25 9:46:05",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543823"
+      }
+    },
+    {
+      "register": "2021-01-25 9:46:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e3"
+      }
+    },
+    {
+      "register": "2021-01-25 9:48:16",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386d"
+      }
+    },
+    {
+      "register": "2021-01-25 9:54:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543867"
+      }
+    },
+    {
+      "register": "2021-01-25 9:54:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543858"
+      }
+    },
+    {
+      "register": "2021-01-25 9:58:39",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e6"
+      }
+    },
+    {
+      "register": "2021-01-25 10:00:17",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543886"
+      }
+    },
+    {
+      "register": "2021-01-25 10:01:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543870"
+      }
+    },
+    {
+      "register": "2021-01-25 10:17:55",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454386f"
+      }
+    },
+    {
+      "register": "2021-01-25 11:14:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389a"
+      }
+    },
+    {
+      "register": "2021-01-25 12:18:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543858"
+      }
+    },
+    {
+      "register": "2021-01-25 12:25:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437d4"
+      }
+    },
+    {
+      "register": "2021-01-25 12:58:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543887"
+      }
+    },
+    {
+      "register": "2021-01-25 14:01:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543843"
+      }
+    },
+    {
+      "register": "2021-01-25 14:55:20",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437ff"
+      }
+    },
+    {
+      "register": "2021-01-25 17:54:40",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454382c"
+      }
+    },
+    {
+      "register": "2021-01-25 17:54:41",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543817"
+      }
+    },
+    {
+      "register": "2021-01-25 17:54:44",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454382c"
+      }
+    },
+    {
+      "register": "2021-01-25 17:54:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543813"
+      }
+    },
+    {
+      "register": "2021-01-25 17:55:11",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543813"
+      }
+    },
+    {
+      "register": "2021-01-25 17:55:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438fa"
+      }
+    },
+    {
+      "register": "2021-01-25 17:55:44",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437df"
+      }
+    },
+    {
+      "register": "2021-01-25 17:58:58",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454388a"
+      }
+    },
+    {
+      "register": "2021-01-25 18:54:31",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454385f"
+      }
+    },
+    {
+      "register": "2021-01-25 19:01:24",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543837"
+      }
+    },
+    {
+      "register": "2021-01-25 19:02:45",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437d0"
+      }
+    },
+    {
+      "register": "2021-01-25 19:03:52",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543958"
+      }
+    },
+    {
+      "register": "2021-01-25 19:09:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437ba"
+      }
+    },
+    {
+      "register": "2021-01-25 20:35:12",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437bf"
+      }
+    },
+    {
+      "register": "2021-01-25 20:41:07",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ea"
+      }
+    },
+    {
+      "register": "2021-01-25 21:12:11",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437f2"
+      }
+    },
+    {
+      "register": "2021-01-25 21:12:50",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437e5"
+      }
+    },
+    {
+      "register": "2021-01-26 0:03:43",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543990"
+      }
+    },
+    {
+      "register": "2021-01-26 1:02:46",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438a7"
+      }
+    },
+    {
+      "register": "2021-01-26 1:27:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543822"
+      }
+    },
+    {
+      "register": "2021-01-26 7:51:44",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454397c"
+      }
+    },
+    {
+      "register": "2021-01-26 7:59:56",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543858"
+      }
+    },
+    {
+      "register": "2021-01-26 10:01:51",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437cb"
+      }
+    },
+    {
+      "register": "2021-01-26 10:12:18",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438c4"
+      }
+    },
+    {
+      "register": "2021-01-26 10:17:40",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438fb"
+      }
+    },
+    {
+      "register": "2021-01-26 10:19:17",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543858"
+      }
+    },
+    {
+      "register": "2021-01-26 10:30:11",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454397f"
+      }
+    },
+    {
+      "register": "2021-01-26 11:14:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454365c"
+      }
+    },
+    {
+      "register": "2021-01-26 11:15:25",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437c8"
+      }
+    },
+    {
+      "register": "2021-01-26 11:15:41",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454383f"
+      }
+    },
+    {
+      "register": "2021-01-26 11:15:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438e8"
+      }
+    },
+    {
+      "register": "2021-01-26 11:18:24",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543967"
+      }
+    },
+    {
+      "register": "2021-01-26 11:18:40",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438a0"
+      }
+    },
+    {
+      "register": "2021-01-26 11:20:17",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543897"
+      }
+    },
+    {
+      "register": "2021-01-26 11:20:54",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543884"
+      }
+    },
+    {
+      "register": "2021-01-26 11:21:11",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454380f"
+      }
+    },
+    {
+      "register": "2021-01-26 11:22:08",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543914"
+      }
+    },
+    {
+      "register": "2021-01-26 11:25:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543836"
+      }
+    },
+    {
+      "register": "2021-01-26 11:25:53",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438d4"
+      }
+    },
+    {
+      "register": "2021-01-26 11:30:29",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543850"
+      }
+    },
+    {
+      "register": "2021-01-26 11:32:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454380b"
+      }
+    },
+    {
+      "register": "2021-01-26 11:33:21",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438ca"
+      }
+    },
+    {
+      "register": "2021-01-26 11:33:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438af"
+      }
+    },
+    {
+      "register": "2021-01-26 11:34:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438d7"
+      }
+    },
+    {
+      "register": "2021-01-26 11:35:03",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454390d"
+      }
+    },
+    {
+      "register": "2021-01-26 11:35:16",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543951"
+      }
+    },
+    {
+      "register": "2021-01-26 11:35:20",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438b4"
+      }
+    },
+    {
+      "register": "2021-01-26 11:35:47",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543954"
+      }
+    },
+    {
+      "register": "2021-01-26 11:36:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543916"
+      }
+    },
+    {
+      "register": "2021-01-26 11:36:41",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438e3"
+      }
+    },
+    {
+      "register": "2021-01-26 11:37:38",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543959"
+      }
+    },
+    {
+      "register": "2021-01-26 11:38:27",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454393d"
+      }
+    },
+    {
+      "register": "2021-01-26 11:40:10",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454389f"
+      }
+    },
+    {
+      "register": "2021-01-26 11:40:51",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454395f"
+      }
+    },
+    {
+      "register": "2021-01-26 11:42:20",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543805"
+      }
+    },
+    {
+      "register": "2021-01-26 11:45:00",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454394e"
+      }
+    },
+    {
+      "register": "2021-01-26 12:07:08",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543920"
+      }
+    },
+    {
+      "register": "2021-01-26 12:07:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543943"
+      }
+    },
+    {
+      "register": "2021-01-26 12:09:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045436db"
+      }
+    },
+    {
+      "register": "2021-01-26 12:10:25",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543690"
+      }
+    },
+    {
+      "register": "2021-01-26 12:26:42",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a430454384b"
+      }
+    },
+    {
+      "register": "2021-01-26 12:44:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543967"
+      }
+    },
+    {
+      "register": "2021-01-26 12:47:33",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438b7"
+      }
+    },
+    {
+      "register": "2021-01-26 12:50:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437df"
+      }
+    },
+    {
+      "register": "2021-01-26 13:32:31",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438d5"
+      }
+    },
+    {
+      "register": "2021-01-26 16:38:02",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543897"
+      }
+    },
+    {
+      "register": "2021-01-26 21:24:37",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045437c3"
+      }
+    },
+    {
+      "register": "2021-01-26 22:36:06",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543798"
+      }
+    },
+    {
+      "register": "2021-01-27 8:34:57",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543897"
+      }
+    },
+    {
+      "register": "2021-01-27 9:08:49",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a43045438d7"
+      }
+    },
+    {
+      "register": "2021-01-27 10:27:50",
+      "assistent": {
+        "$oid": "607c8fa9d8f88a4304543951"
+      }
+    }
+  ]
+}]

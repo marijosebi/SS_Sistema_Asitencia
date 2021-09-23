@@ -1,0 +1,230 @@
+<template>
+<!-- Event form and register form  -->
+  <div>
+   
+   <div class="text-left">
+      <b-link href="../admin/unidades">Unidades</b-link> /
+       <!-- {{ element.code }} -->
+      <!-- Ensegida extraer los datos del elemento seleccionado como el nombre por ejemplo -->
+    </div>   
+
+    <br>
+    <h2>REGISTRO DE UNIDAD </h2>
+    <br>
+    <br>
+
+    <b-card class="text-left" header="Registro">
+      <b-container class="bv-example-row">
+        <b-form>
+          
+         <b-row>
+          <b-col cols="10"
+            ><label>Nombre</label>
+            <b-form-input
+              class="mb-2 mr-sm-2 mb-sm-0 text-left" 
+              v-model="element.name"
+              placeholder="Nombre de la unidad"
+              required
+            ></b-form-input>
+          </b-col>
+        </b-row> 
+        <br>
+      <b-row>
+          <b-col cols="10"
+            ><label>Código</label>
+            <b-form-input
+              class="mb-2 mr-sm-2 mb-sm-0 text-left" 
+              v-model="element.code"
+              placeholder="Código de la unidad"
+              required
+            ></b-form-input>
+          </b-col>
+        </b-row> 
+        
+        <br>
+           <b-row>
+          <b-col cols="10"
+            ><label>Programa Acádemico</label>
+            <b-form-input
+              class="mb-2 mr-sm-2 mb-sm-0 text-left" 
+              v-model="element.program"
+              placeholder="Ingresa un PA"
+
+            ></b-form-input>
+          </b-col>
+        </b-row> 
+        <br>
+        <b-row>
+          <b-col cols="8">
+            <label>Programas Academicos</label>
+            <b-form-select
+              v-model="element.program"
+              :options="catalogs.programs"
+            >  
+          
+          </b-form-select>
+<!-- v-model="data.item.edit" -->
+        
+          </b-col>
+
+          
+          <b-col cols="">
+          <label></label><br/>
+          <b-link href="/admin/registroPA"> 
+                <b-button  class="mb-3" v-b-modal.new-modal>
+                <b-icon icon="plus" aria-hidden="true"></b-icon> Nuevo programa
+            </b-button></b-link>
+          </b-col>
+
+        </b-row>
+        <br>
+  
+        <br>
+        <b-row>
+          <b-col cols="10">
+              <button block type="submit" class="btn btn-secondary" >Registrar</button>
+          </b-col>
+          
+        </b-row>
+
+        
+  
+
+        <!-- Here we are -->
+      </b-form>
+      </b-container>
+    </b-card>
+    
+    
+
+    <br />
+  </div>
+</template>
+
+<script>
+
+// import { eventsTypes } from "../../../variables.js";
+//import QrReader from "../../public/register/qr-reader.vue";
+import axios from "axios";
+export default {
+  name: "Unidad",
+  components:
+  {//QrReader
+  },
+  data() {
+    return {
+      element: {
+        // schedule: [],
+        // state: false,
+        // edit: false,
+        file1: null,
+        program: null,
+        name: "",
+        code: "",
+      },
+      assistent: {},
+      schedule: {},
+      
+      catalogs: {
+        // unit: [],
+      // areas: "array de areas",
+      programs: [{ text: 'Select One', value: null }, 'Carrots', 'Beans', 'Tomatoes', 'Corn'],
+
+      },
+
+      fields: [
+        {
+          key: "name",
+          label: "Nombre del PA",
+        },
+        {
+          key: "program",
+          label: "Área",
+        },
+      ],
+    };
+  },
+  mounted() {
+    this.getPeriod();
+    this.getUnit();
+  },
+  methods: {
+    supr(index) {
+      this.element.schedule.splice(index, 1);
+    },
+    ///Observacion aqio    
+    toggleState() {
+      this.element.state = !this.element.state;
+    },
+    addDate() {
+      this.element.schedule.push(this.schedule);
+      this.schedule = {};
+    },
+    async getData() {
+      await axios.get("http://localhost:8081/api/event/"+this.$route.params.id).then((result) => {
+        this.element = result.data.data;
+      });
+    },
+    async getPeriod() {
+      await axios.get("http://localhost:8081/api/period/").then((result) => {
+        this.catalogs.period = result.data.data;
+      });
+    },
+    async getUnit() {
+      await axios.get("http://localhost:8081/api/unit/").then((result) => {
+        this.catalogs.unit = result.data.data;
+      });
+    },
+    getDepa(unit) {
+      if (this.catalogs.unit.length) console.log(unit);
+      this.catalogs.unit.forEach((element) => {
+        if (element._id == unit) {
+          console.log(element._id);
+          this.catalogs.department = element.departments;
+          return null;
+        }
+      });
+      return [];
+    },
+  },
+  created() {
+    if (this.$route.params.id == "nuevo") {
+      this.element.code = "Nuevo";
+      console.log(this.element.code);
+    } else this.getData();
+  },
+};
+
+
+</script>
+
+<style scoped>
+.s-input {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+h1,
+h2 {
+  font-weight: normal;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+a {
+  color: #42b983;
+}
+
+textarea {
+  width: 600px;
+  height: 200px;
+}
+</style>

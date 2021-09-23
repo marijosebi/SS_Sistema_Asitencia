@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6088c96eac67911a820f2646"
+  },
+  "name": "Servicios Estudiantiles",
+  "areas": [
+    {
+      "_id": {
+        "$oid": "6088c9b8ac67911a820f2648"
+      },
+      "name": "Orientación Juvenil"
+    },
+    {
+      "_id": {
+        "$oid": "6088c9eaac67911a820f2649"
+      },
+      "name": "Red de Género"
+    },
+    {
+      "_id": {
+        "$oid": "6088ca12ac67911a820f264a"
+      },
+      "name": "Servicio Médico"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6088cbabac67911a820f264b"
+  },
+  "name": "Gestión Escolar"
+},{
+  "_id": {
+    "$oid": "6088cbceac67911a820f264c"
+  },
+  "name": "Extención y Apoyos Educativos"
+}]

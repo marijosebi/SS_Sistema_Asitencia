@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bde4"
+  },
+  "name": "Contador Público"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdab"
+  },
+  "name": "Ingeniería Aeronáutica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdac"
+  },
+  "code": "AM",
+  "name": "Ingeniería Ambiental"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdad"
+  },
+  "name": "Ingeniería Biomédica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdae"
+  },
+  "name": "Ingeniería Biónica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdaf"
+  },
+  "name": "Ingeniería Bioquímica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdb0"
+  },
+  "name": "Ingeniería Biotecnológica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdb1"
+  },
+  "name": "Ingeniería Civil"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdb2"
+  },
+  "name": "Ingeniería Eléctrica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdb3"
+  },
+  "code": "LM",
+  "name": "Ingeniería en Alimentos"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdb4"
+  },
+  "name": "Ingeniería en Computación"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdb5"
+  },
+  "name": "Ingeniería en Comunicaciones y Electrónica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdb6"
+  },
+  "name": "Ingeniería en Control y Automatización"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdb7"
+  },
+  "name": "Ingeniería en Energía"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdb8"
+  },
+  "name": "Ingeniería en Informática"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdb9"
+  },
+  "name": "Ingeniería en Inteligencia Artificial"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdba"
+  },
+  "name": "Ingeniería en Metalurgia y Materiales"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdbb"
+  },
+  "name": "Ingeniería en Movilidad Urbana"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdbc"
+  },
+  "name": "Ingeniería en Negocios Energéticos Sustentables"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdbd"
+  },
+  "name": "Ingeniería en Robótica Industrial"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdbe"
+  },
+  "name": "Ingeniería en Sistemas Ambientales"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdc0"
+  },
+  "name": "Ingeniería en Sistemas Computacionales"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdc1"
+  },
+  "name": "Ingeniería en Sistemas Energéticos y Redes Inteligentes"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdc2"
+  },
+  "name": "Ingeniería en Transporte"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdc3"
+  },
+  "name": "Ingeniería Farmacéutica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdc4"
+  },
+  "name": "Ingeniería Ferroviaria"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdc5"
+  },
+  "name": "Ingeniería Fotónica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdc6"
+  },
+  "name": "Ingeniería Geofísica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdc7"
+  },
+  "name": "Ingeniería Geológica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdc8"
+  },
+  "name": "Ingeniería Industrial"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdc9"
+  },
+  "name": "Ingeniería Matemática"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdca"
+  },
+  "name": "Ingeniería Mecánica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdcb"
+  },
+  "code": "MM",
+  "name": "Ingeniería Mecatrónica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdcc"
+  },
+  "code": "EM",
+  "name": "Ingeniería Metalúrgica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdcd"
+  },
+  "name": "Ingeniería Petrolera"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdce"
+  },
+  "name": "Ingeniería Química Industrial"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdcf"
+  },
+  "name": "Ingeniería Química Petrolera"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdd0"
+  },
+  "name": "Ingeniería Telemática"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdd1"
+  },
+  "name": "Ingeniería Textil"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdd2"
+  },
+  "name": "Ingeniería Topográfica y Fotogramétrica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdd3"
+  },
+  "name": "Ingeniero Arquitecto"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdd8"
+  },
+  "name": "Licenciado en Nutrición"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdd9"
+  },
+  "name": "Licenciado en Optometría"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdda"
+  },
+  "name": "Licenciado en Psicología"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bde5"
+  },
+  "name": "Licenciatura en Administración Industrial"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bde6"
+  },
+  "name": "Licenciatura en Administración y Desarrollo Empresarial"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bde7"
+  },
+  "name": "Licenciatura en Archivonomía"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdf1"
+  },
+  "name": "Licenciatura en Archivonomía"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bde8"
+  },
+  "name": "Licenciatura en Biblioteconomía"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdf2"
+  },
+  "name": "Licenciatura en Biblioteconomía"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bddb"
+  },
+  "name": "Licenciatura en Biología"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdd4"
+  },
+  "name": "Licenciatura en Ciencia de Datos"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdd5"
+  },
+  "name": "Licenciatura en Ciencias de la Informática"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdf3"
+  },
+  "name": "Licenciatura en Comercio Internacional"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bde9"
+  },
+  "name": "Licenciatura en Economía"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bddc"
+  },
+  "name": "Licenciatura en Enfermería"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bddd"
+  },
+  "name": "Licenciatura en Enfermería y Obstetricia"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdd6"
+  },
+  "name": "Licenciatura en Física y Matemáticas"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdd7"
+  },
+  "name": "Licenciatura en Matemática Algorítmica"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdea"
+  },
+  "name": "Licenciatura en Negocios Digitales"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdeb"
+  },
+  "name": "Licenciatura en Negocios Internacionales"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdde"
+  },
+  "name": "Licenciatura en Odontología"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdec"
+  },
+  "name": "Licenciatura en Relaciones Comerciales"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bddf"
+  },
+  "name": "Licenciatura en Trabajo Social"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bded"
+  },
+  "name": "Licenciatura en Turismo"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bdee"
+  },
+  "name": "Licenciatura en Turismo Sustentable"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bde0"
+  },
+  "name": "Médico Cirujano Homeópata"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bde1"
+  },
+  "name": "Médico Cirujano Partero"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bde2"
+  },
+  "name": "Químico Bacteriólogo Parasitólogo"
+},{
+  "_id": {
+    "$oid": "605970a018f10c2e74b7bde3"
+  },
+  "name": "Quimico Farmacéutico Industrial"
+},{
+  "_id": {
+    "$oid": "605aa41d7dfacb3c9d4299e7"
+  },
+  "name": "Ingeniería en Sistemas Automotrices"
+}]
